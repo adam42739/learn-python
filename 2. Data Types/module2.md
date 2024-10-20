@@ -1,5 +1,7 @@
 # Data Types
 
+## Contents
+
 1. [Boolean](#boolean)
 2. [Integer](#integer)
 3. [String](#string)
